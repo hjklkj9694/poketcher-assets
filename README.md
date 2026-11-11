@@ -1,0 +1,2 @@
+# poketcher-assets
+assets only
